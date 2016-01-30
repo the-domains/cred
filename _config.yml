@@ -1,0 +1,29 @@
+name: CRED
+favicon: null
+layout_spectrum: 0.6224055807106197
+typography_spectrum: 0.024737679166719317
+title: "INNOVATION PARTNER IN RESIDENCE (IPR) - DON'T LOOK. SEE."
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.14700519992038608
+  lightness: 0.19590659718960524
+  saturation: 0.5816188659518957
+  rhythmicContrast: 0.7045791195705533
+purpose: []
